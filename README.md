@@ -24,9 +24,13 @@ Puni.sh的discord频道[链接](https://discord.com/channels/1001823907193552978
 
 可以实现持续的自动化升级你的副战职。
 以下原文太长，不想翻译了^_^大意为可以开启自动一键最强装备（需安装额外的插件，在下文），并且自动化选择当前装等及等级可以打的最高级副本。（请确保你的paths中已经把有问题的副本文件删除了）
-/r（原文）With AutoDuty, you can level a job from 15 to the max level very quickly and fully AFK, provided you have the correct gear and the option in the AD configuration to automatically equip the best gear.
+<details>
+  <summary>点击展开/原文</summary>
+  
+  （原文）With AutoDuty, you can level a job from 15 to the max level very quickly and fully AFK, provided you have the correct gear and the option in the AD configuration to automatically equip the best gear.
 
 This plugin can also level trusts for you in the same way it levels your jobs. It can intelligently select trust members and level them all to max, fully AFK.
+</details>
 
 # Automations（自动化的功能）
 
@@ -62,10 +66,14 @@ The following plugins are optional. They integrate with AutoDuty well and in som
 
 # Getting help（以下是help，不翻译了）
 
-When you've found a bug or think you have an issue with the plugin, please ask in [this channel](https://discord.com/channels/1001823907193552978/1236757595738476725) in the [Puni.sh Discord server](https://discord.gg/punishxiv). It might be a known issue or people might be able to help you quickly. Additionally, sometimes it might be an issue with one of the required plugins. Users in Discord will be able to help triage the issue and send you to the right place.
+<details>
+  <summary>点击展开/折叠</summary>
+  
+  When you've found a bug or think you have an issue with the plugin, please ask in [this channel](https://discord.com/channels/1001823907193552978/1236757595738476725) in the [Puni.sh Discord server](https://discord.gg/punishxiv). It might be a known issue or people might be able to help you quickly. Additionally, sometimes it might be an issue with one of the required plugins. Users in Discord will be able to help triage the issue and send you to the right place.
 
 Best practice is to not say "I died in this dungeon and I don't know why." Please make sure to include as much detail as possible. What boss were you on? Did you get stuck in a specific spot?
 
 For support with Veyn's Boss Mod and vnavmesh, please ask in [this channel](https://discord.com/channels/1001823907193552978/1191076246860349450) in the [Puni.sh Discord server](https://discord.gg/punishxiv). For support with BossModReborn and Rotation Solver Reborn, please ask in the [Combat Reborn Discord server](https://discord.gg/p54TZMPnC9).
 
 Lastly, feel free to create issues with feature requests and bug reports.
+</details>

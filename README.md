@@ -64,7 +64,7 @@ The following plugins are optional. They integrate with AutoDuty well and in som
 - [Gearsetter](https://plugins.carvel.li): 自动一键最强（在兵装库和背包中寻找）
 - [AutoRetainer](https://love.puni.sh/ment.json): 自动雇员模块（喜欢就用，不喜欢就去用DR）
 
-# Getting help（以下是help，不翻译了）
+# Getting help（以下是help，不翻译了，但是有隐藏内容）
 
 <details>
   <summary>点击展开/折叠</summary>
@@ -76,4 +76,5 @@ Best practice is to not say "I died in this dungeon and I don't know why." Pleas
 For support with Veyn's Boss Mod and vnavmesh, please ask in [this channel](https://discord.com/channels/1001823907193552978/1191076246860349450) in the [Puni.sh Discord server](https://discord.gg/punishxiv). For support with BossModReborn and Rotation Solver Reborn, please ask in the [Combat Reborn Discord server](https://discord.gg/p54TZMPnC9).
 
 Lastly, feel free to create issues with feature requests and bug reports.
+[我奶奶来了都会配置的AD自动亲信教程](https://docs.qq.com/doc/DZFFIbGVpR0xsa0t1?u=b1f4dace4217486b8271e25906623859)
 </details>

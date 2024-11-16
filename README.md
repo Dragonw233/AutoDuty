@@ -53,7 +53,7 @@ This plugin can also level trusts for you in the same way it levels your jobs. I
 以下插件自行导入。
 
 - [vnavmesh](https://puni.sh/api/repository/veyn): 自动寻路插件（看不懂设置的自己找中文库食用）
-- [Rotation Solver Reborn](https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json): （秋蝗的自动输出模块，十万行优质代码:rofl: :rofl: :rofl:）可以用别的插件替代，自行寻找并自行配置。
+- [Rotation Solver Reborn](https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json): （秋蝗的自动输出模块，十万行优质代码，笑死，有瓜）可以用别的插件替代，自行寻找并自行配置。
 - [BossmodReborn](https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json): 自动躲避机制（谢谢支持逆光喵~）逆光库友链
 
 ## Optional Plugins（选用插件）

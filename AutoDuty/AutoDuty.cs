@@ -242,29 +242,29 @@ public sealed class AutoDuty : IDalamudPlugin
             Svc.Commands.AddHandler("/ad", new CommandInfo(OnCommand) { });
             Svc.Commands.AddHandler(CommandName, new CommandInfo(OnCommand)
             {
-                HelpMessage = "\n/autoduty or /ad -> opens main window\n" +
-                "/autoduty or /ad config or cfg -> opens config window / modifies config\n" +
-                "/autoduty or /ad start -> starts autoduty when in a Duty\n" +
-                "/autoduty or /ad stop -> stops everything\n" +
-                "/autoduty or /ad pause -> pause route\n" +
-                "/autoduty or /ad resume -> resume route\n" +
-                "/autoduty or /ad turnin -> GC Turnin\n" +
-                "/autoduty or /ad desynth -> Desynth's your inventory\n" +
-                "/autoduty or /ad repair -> Repairs your gear\n" +
-                "/autoduty or /ad equiprec-> Equips recommended gear\n" +
-                "/autoduty or /ad extract -> Extract's materia from equipment\n" +
-                "/autoduty or /ad turnin -> GC Turnin\n" +
-                "/autoduty or /ad goto -> goes to\n" +
-                "/autoduty or /ad dataid -> Logs and copies your target's dataid to clipboard\n" +
-                "/autoduty or /ad exitduty -> exits duty\n" +
-                "/autoduty or /ad queue -> queues duty\n" +
-                "/autoduty or /ad moveto -> move's to territorytype and location sent\n" +
-                "/autoduty or /ad overlay -> opens overlay\n" +
-                "/autoduty or /ad overlay lock-> toggles locking the overlay\n" +
-                "/autoduty or /ad overlay nobg-> toggles the overlay's background\n" +
-                "/autoduty or /ad movetoflag -> moves to the flag map marker\n" +
-                "/autoduty or /ad run -> starts auto duty in territory type specified\n" +
-                "/autoduty or /ad tt -> logs and copies to clipboard the Territory Type number for duty specified\n"
+                HelpMessage = "\n/autoduty or /ad -> 打开主窗口\n" +
+                "/autoduty or /ad config or cfg -> 打开设置 / 修改设置\n" +
+                "/autoduty or /ad start -> 在副本中启用ad\n" +
+                "/autoduty or /ad stop -> 停止一切进程\n" +
+                "/autoduty or /ad pause -> 暂停运行\n" +
+                "/autoduty or /ad resume -> 恢复运行\n" +
+                "/autoduty or /ad turnin -> 上交至GC（不太懂）可能是去交军票\n" +
+                "/autoduty or /ad desynth -> 分解你背包里的东西（大概？我没试过）\n" +
+                "/autoduty or /ad repair -> 还在刷？该修修装备啦！\n" +
+                "/autoduty or /ad equiprec-> 自动最强推荐装备\n" +
+                "/autoduty or /ad extract -> 自动精制魔晶石\n" +
+                "/autoduty or /ad turnin -> GC Turnin（重复了，跳过！）\n" +
+                "/autoduty or /ad goto -> 前往？大傻春！你要去干什么！\n" +
+                "/autoduty or /ad dataid -> 记录并将你的目标的数据ID复制到剪贴板\n" +
+                "/autoduty or /ad exitduty -> 退出副本\n" +
+                "/autoduty or /ad queue -> 排真人？别搞，请你像个人！\n" +
+                "/autoduty or /ad moveto -> 移动到指定的类型和位置\n" +
+                "/autoduty or /ad overlay -> 打开覆盖层\n" +
+                "/autoduty or /ad overlay lock-> 切换锁定覆盖层\n" +
+                "/autoduty or /ad overlay nobg-> 切换覆盖层背景\n" +
+                "/autoduty or /ad movetoflag -> 移动到旗标\n" +
+                "/autoduty or /ad run -> 在指定副本中启用自动副本\n" +
+                "/autoduty or /ad tt -> 记录并将指定的副本一些元素复制到剪切板》一般用于制作paths用\n"
             });
 
             PluginInterface.UiBuilder.Draw += DrawUI;
